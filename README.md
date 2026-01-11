@@ -1,3 +1,3 @@
 # sales-analysis.
 
-In this project, I used Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to analyze a sales dataset containing 10,000 records. I performed data cleaning, feature engineering, exploratory data analysis, and data visualization to identify revenue trends, regional performance, product profitability, and sales channel insights.
+This project involves exploratory data analysis of a sales dataset containing 10,000 records to assess revenue performance, profitability, and operational trends. The analysis was conducted using Python and key data analysis libraries including NumPy, Pandas, Matplotlib, and Seaborn to perform data cleaning, feature engineering, statistical analysis, and data visualization, enabling data-driven business insights.
